@@ -4,7 +4,7 @@
 
 # Olá, eu sou Miguel! 👋
 
-### Estudante de Engenharia de Software | Desenvolvedor em formação
+### Estudante de Engenharia de Software | Em busca de estágio em desenvolvimento de software
 
 Gosto de transformar ideias em soluções por meio da tecnologia. Estou construindo minha experiência com projetos práticos, explorando diferentes áreas do desenvolvimento e aprimorando minhas habilidades a cada desafio.
 
@@ -17,9 +17,10 @@ Gosto de transformar ideias em soluções por meio da tecnologia. Estou construi
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**.
-- 💡 Interessado em desenvolvimento de software, tecnologia e resolução de problemas.
+- 🎯 **Em busca de uma oportunidade de estágio** em desenvolvimento de software.
+- 💡 Interessado em tecnologia, programação e resolução de problemas.
 - 🧩 Aprendendo a planejar, desenvolver e documentar aplicações.
-- 🤝 Buscando uma oportunidade para crescer profissionalmente, colaborar com uma equipe e contribuir com projetos reais.
+- 🤝 Quero crescer profissionalmente, colaborar com uma equipe e contribuir com projetos reais.
 - 📚 Acredito no aprendizado contínuo e na evolução por meio da prática.
 
 ## 🛠️ Tecnologias e ferramentas
