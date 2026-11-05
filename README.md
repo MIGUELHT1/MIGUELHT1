@@ -1,29 +1,30 @@
-<!-- Perfil profissional do GitHub de Miguel Miranda -->
+<!-- Perfil profissional de Miguel Miranda -->
 
 <div align="center">
 
-# Olá! Eu sou o Miguel 👋
+# Olá, eu sou Miguel 👋
 
-### Estudante de Engenharia de Software | Foco em Backend Java
+### Desenvolvedor em formação | Backend Java
 
-Construindo minha jornada em desenvolvimento de software, com interesse em APIs, lógica de programação e soluções bem estruturadas.
+Estudante de Engenharia de Software, com foco em desenvolvimento backend, construção de APIs e resolução de problemas com código.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MIGUELHT1-181717?style=for-the-badge&logo=github)](https://github.com/MIGUELHT1)
+[![GitHub](https://img.shields.io/badge/GitHub-MIGUELHT1-181717?style=flat-square&logo=github)](https://github.com/MIGUELHT1)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Estudante de **Engenharia de Software**.
-- ☕ Direcionando meus estudos para **desenvolvimento Backend com Java**.
-- 🧠 Aprendendo e praticando lógica de programação, estruturação de projetos e resolução de problemas.
-- 🚀 Meu objetivo é evoluir como desenvolvedor e contribuir com projetos reais em equipe.
+- 🎓 Graduando em **Engenharia de Software**.
+- ☕ Direcionando minha carreira para **Backend com Java**.
+- 💻 Praticando desenvolvimento de aplicações, organização de código e lógica de programação.
+- 📚 Em constante evolução por meio de estudos e projetos práticos.
+- 🎯 Buscando uma oportunidade de estágio ou posição júnior para aprender, colaborar e contribuir com um time de tecnologia.
 
-## 🛠️ Tecnologias e estudos
+## Tecnologias
 
-<div align="left">
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,21 +33,24 @@ Construindo minha jornada em desenvolvimento de software, com interesse em APIs,
 
 </div>
 
-> Estou fortalecendo minha base em Java e desenvolvimento backend. As tecnologias e ferramentas serão adicionadas conforme eu avançar nos estudos e projetos.
+> Meu foco de desenvolvimento é Java e backend. Estou ampliando meus conhecimentos em APIs REST, Spring Boot e bancos de dados por meio de projetos práticos.
 
-## 📌 Projetos
+## Projetos em destaque
 
 ### [Sistema Coffee Shops Tia Rosa](https://github.com/MIGUELHT1/sistema-coffee-shops-tia-rosa)
-Projeto pessoal/acadêmico em desenvolvimento. Confira o repositório para acompanhar sua estrutura e evolução.
+Aplicação de terminal em Python para gerenciamento de clientes, produtos e pedidos, utilizando Programação Orientada a Objetos e organização em módulos.
 
-## 🎯 Objetivo atual
+## Próximos objetivos
 
-Aprofundar meus conhecimentos em **Java**, boas práticas de código, bancos de dados, APIs REST e ferramentas do ecossistema backend, aplicando o aprendizado em projetos práticos.
+- Desenvolver APIs REST com Java e Spring Boot.
+- Aprofundar conhecimentos em SQL e PostgreSQL.
+- Aplicar testes automatizados e boas práticas de desenvolvimento.
+- Construir projetos backend completos, documentados e versionados com Git.
 
 ---
 
 <div align="center">
 
-**Sempre aprendendo. Sempre construindo.**
+**Aprendendo na prática e evoluindo a cada projeto.**
 
 </div>
