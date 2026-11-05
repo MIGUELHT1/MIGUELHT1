@@ -2,11 +2,11 @@
 
 <div align="center">
 
-# Olá, eu sou Miguel 👋
+# Olá, eu sou Miguel! 👋
 
-### Desenvolvedor em formação | Backend Java
+### Estudante de Engenharia de Software | Desenvolvedor em formação
 
-Estudante de Engenharia de Software, com foco em desenvolvimento backend, construção de APIs e resolução de problemas com código.
+Gosto de transformar ideias em soluções por meio da tecnologia. Estou construindo minha experiência com projetos práticos, explorando diferentes áreas do desenvolvimento e aprimorando minhas habilidades a cada desafio.
 
 [![GitHub](https://img.shields.io/badge/GitHub-MIGUELHT1-181717?style=flat-square&logo=github)](https://github.com/MIGUELHT1)
 
@@ -14,15 +14,15 @@ Estudante de Engenharia de Software, com foco em desenvolvimento backend, constr
 
 ---
 
-## Sobre mim
+## 👨‍💻 Sobre mim
 
-- 🎓 Graduando em **Engenharia de Software**.
-- ☕ Direcionando minha carreira para **Backend com Java**.
-- 💻 Praticando desenvolvimento de aplicações, organização de código e lógica de programação.
-- 📚 Em constante evolução por meio de estudos e projetos práticos.
-- 🎯 Buscando uma oportunidade de estágio ou posição júnior para aprender, colaborar e contribuir com um time de tecnologia.
+- 🎓 Estudante de **Engenharia de Software**.
+- 💡 Interessado em desenvolvimento de software, tecnologia e resolução de problemas.
+- 🧩 Aprendendo a planejar, desenvolver e documentar aplicações.
+- 🤝 Buscando uma oportunidade para crescer profissionalmente, colaborar com uma equipe e contribuir com projetos reais.
+- 📚 Acredito no aprendizado contínuo e na evolução por meio da prática.
 
-## Tecnologias
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
@@ -33,24 +33,30 @@ Estudante de Engenharia de Software, com foco em desenvolvimento backend, constr
 
 </div>
 
-> Meu foco de desenvolvimento é Java e backend. Estou ampliando meus conhecimentos em APIs REST, Spring Boot e bancos de dados por meio de projetos práticos.
+Atualmente, estou ampliando minha base em programação, boas práticas, organização de projetos e bancos de dados. Esta seção será atualizada conforme eu utilizar novas ferramentas em projetos reais.
 
-## Projetos em destaque
+## 🚀 Projetos em destaque
 
 ### [Sistema Coffee Shops Tia Rosa](https://github.com/MIGUELHT1/sistema-coffee-shops-tia-rosa)
-Aplicação de terminal em Python para gerenciamento de clientes, produtos e pedidos, utilizando Programação Orientada a Objetos e organização em módulos.
+Sistema de terminal desenvolvido em Python para praticar Programação Orientada a Objetos e organização em módulos. Permite cadastrar clientes e produtos, criar pedidos e consultar valores.
 
-## Próximos objetivos
+*Veja o README do projeto para conhecer as funcionalidades, estrutura e instruções de execução.*
 
-- Desenvolver APIs REST com Java e Spring Boot.
-- Aprofundar conhecimentos em SQL e PostgreSQL.
-- Aplicar testes automatizados e boas práticas de desenvolvimento.
-- Construir projetos backend completos, documentados e versionados com Git.
+## 🌱 O que estou desenvolvendo
+
+- Evolução das minhas habilidades em Java e Python.
+- Construção de aplicações completas, do planejamento à implementação.
+- Prática com bancos de dados, APIs, testes e documentação.
+- Melhoria contínua da qualidade e organização dos meus projetos.
+
+## 📫 Contato
+
+- GitHub: [@MIGUELHT1](https://github.com/MIGUELHT1)
 
 ---
 
 <div align="center">
 
-**Aprendendo na prática e evoluindo a cada projeto.**
+**Obrigado por visitar meu perfil!**
 
 </div>
