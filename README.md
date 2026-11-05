@@ -38,7 +38,7 @@ Estou ampliando meus conhecimentos em programação, lógica, orientação a obj
 ## 🚀 Projetos
 
 ### [Sistema Coffee Shops Tia Rosa](https://github.com/MIGUELHT1/sistema-coffee-shops-tia-rosa)
-Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, com cadastro de clientes e produtos e criação de pedidos. Projeto desenvolvido para praticar orientação a objetos e organização em módulos.
+Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, com cadastro de clientes e produtos e criação de pedidos. O repositório inclui testes unitários com `unittest` e automação de execução com GitHub Actions.
 
 ## 🌱 Atualmente
 
