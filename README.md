@@ -1,14 +1,12 @@
-<!-- Perfil profissional de Miguel Miranda -->
-
 <div align="center">
 
 # Olá, eu sou Miguel! 👋
 
 ### Estudante de Engenharia de Software | Em busca de estágio em Tecnologia
 
-Tenho interesse em desenvolvimento de software e em diferentes áreas da tecnologia. Gosto de aprender na prática, transformar ideias em soluções e evoluir por meio de projetos e novos desafios.
+Tenho interesse em desenvolvimento de software, principalmente na área **Backend**. Estou construindo minha base em Java, Python e fundamentos de programação por meio dos estudos e de projetos práticos.
 
-[![GitHub](https://img.shields.io/badge/GitHub-MIGUELHT1-181717?style=flat-square&logo=github)](https://github.com/MIGUELHT1)
+[![GitHub](https://img.shields.io/badge/GitHub-MIGUELHT1-181717?style=for-the-badge&logo=github)](https://github.com/MIGUELHT1)
 
 </div>
 
@@ -17,10 +15,11 @@ Tenho interesse em desenvolvimento de software e em diferentes áreas da tecnolo
 ## 👨‍💻 Sobre mim
 
 - 🎓 Estudante de **Engenharia de Software**.
-- 🎯 Em busca de uma oportunidade de **estágio em diferentes áreas da tecnologia**.
-- 💡 Interessado em programação, desenvolvimento de software e resolução de problemas.
-- 🧩 Buscando desenvolver habilidades técnicas e aprender boas práticas de trabalho em equipe.
-- 📚 Acredito no aprendizado contínuo e na evolução por meio da prática.
+- 💼 Em busca de uma oportunidade de **estágio em tecnologia**.
+- ☕ Tenho interesse especial em **Backend Java** e desenvolvimento de APIs.
+- 🐍 Também pratico programação com **Python**.
+- 📚 Estudando orientação a objetos, lógica, bancos de dados e boas práticas de desenvolvimento.
+- 🚀 Gosto de aprender na prática e evoluir por meio de projetos.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -33,19 +32,20 @@ Tenho interesse em desenvolvimento de software e em diferentes áreas da tecnolo
 
 </div>
 
-Estou ampliando meus conhecimentos em programação, lógica, orientação a objetos, bancos de dados e desenvolvimento de aplicações. As tecnologias exibidas representam ferramentas com as quais já estou estudando e praticando.
+*Tecnologias que fazem parte dos meus estudos e projetos atuais.*
 
-## 🚀 Projetos
+## 🚀 Projeto em destaque
 
-### [Sistema Coffee Shops Tia Rosa](https://github.com/MIGUELHT1/sistema-coffee-shops-tia-rosa)
-Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, com cadastro de clientes e produtos e criação de pedidos. O repositório inclui testes unitários com `unittest` e automação de execução com GitHub Actions.
+### [Coffee Shops Tia Rosa](https://github.com/MIGUELHT1/sistema-coffee-shops-tia-rosa)
+
+Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, com cadastro de clientes e produtos e criação de pedidos. O projeto utiliza Programação Orientada a Objetos, organização em módulos e testes automatizados com `unittest`.
 
 ## 🌱 Atualmente
 
-- Praticando programação com Java e Python.
-- Desenvolvendo projetos para consolidar fundamentos de software.
-- Estudando boas práticas, bancos de dados e estruturação de aplicações.
-- Buscando uma oportunidade de estágio para aprender com profissionais e contribuir com uma equipe.
+- Fortalecendo minha base em Java e Python.
+- Praticando orientação a objetos e resolução de problemas.
+- Aprendendo a estruturar projetos e escrever testes.
+- Buscando uma oportunidade para aprender com uma equipe de desenvolvimento e contribuir com projetos reais.
 
 ## 📫 Contato
 
@@ -55,6 +55,6 @@ Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, c
 
 <div align="center">
 
-**Obrigado por visitar meu perfil!**
+**Sempre aprendendo e evoluindo um projeto de cada vez.**
 
 </div>
