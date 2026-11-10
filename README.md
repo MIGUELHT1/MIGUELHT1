@@ -40,6 +40,10 @@ Tenho interesse em desenvolvimento de software, principalmente na área **Backen
 
 Aplicação de terminal em Python para gerenciamento básico de uma cafeteria, com cadastro de clientes e produtos e criação de pedidos. O projeto utiliza Programação Orientada a Objetos, organização em módulos e testes automatizados com `unittest`.
 
+## 🎯 Foco profissional
+
+Meu objetivo é iniciar minha carreira como desenvolvedor, construindo uma base sólida em programação e direcionando meus estudos para **Backend Java**. Estou no nível básico e valorizo projetos que me ajudem a praticar e compreender os fundamentos.
+
 ## 🌱 Atualmente
 
 - Fortalecendo minha base em Java e Python.
